@@ -13,9 +13,9 @@ discover your own love for code.
 
 ## Learning to Write Code
 
-This is the beginning of our Software Engineering course, where you will go
-through everything from the basics of coding to building full-stack React
-web applications.
+This is the beginning of our Front End Web Development Transform course, where 
+you will go through everything from the basics of coding to building full-stack 
+React web applications.
 
 So, where do we start? How do we know what is necessary to understand _first?_
 In this course, we're going to start with a simple idea - programming is like
