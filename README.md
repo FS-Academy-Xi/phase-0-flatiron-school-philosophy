@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to Flatiron School! We're thrilled that you've joined our community of
+Welcome to Academy Xi! We're thrilled that you've joined our community of
 learners! 
 
 The following content is designed for people who are passionate, curious,
@@ -22,7 +22,7 @@ In this course, we're going to start with a simple idea - programming is like
 having a conversation, and just like learning to talk, we need to start by
 learning a few words and practicing them.
 
-Many people on joining Flatiron School have already spent some time dabbling
+Many people on joining Academy Xi have already spent some time dabbling
 with coding by using the amazing and plentiful resources all around the
 internet. In developing the content here, though, we make no assumptions. This
 content is designed for absolute beginners. Lessons build off each other,
@@ -33,7 +33,7 @@ capacity to learn. We do our best to offer a curriculum that is clear,
 digestible, engaging, challenging, and deep. The curriculum you'll encounter on
 here is rigorous and will demand that you be patient and resourceful.
 
-## The Flatiron Community
+## The Academy Xi Community
 
 We don't believe in learning alone. As you make progress, expect to bump into
 other learners just like you, ready and willing to help each other succeed.
